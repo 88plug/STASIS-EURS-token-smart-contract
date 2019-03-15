@@ -2,7 +2,7 @@
 
 EURS Token for Ethereum smart contracts.
 
-Copyright © 2018 by STSS (Malta) Limited.
+Copyright © 2019 by STSS (Malta) Limited.
 
 Contact: <tech@stasis.net>
 
